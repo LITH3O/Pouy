@@ -220,6 +220,15 @@
         "_coverMode": "image"
       },
       {
+        "id": "08169f81-8068-4bb4-a075-1f28ecc0c3c3",
+        "title": "Crunchyroll",
+        "coverImageUrl": "[https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Apple-TV.png](https://nuvioapp.space/uploads/covers/55d49613-bde0-44ca-8a42-3d837e0bf496.jpg)",
+        "focusGifUrl": "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZ6NmI5dGswNHhiNXQ2aDF3Z2dtazh1M2pwam15a3B1c2IzdTV5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlCK6wMzcs1mUw0/giphy.gif",
+        "coverEmoji": null,
+        "tileShape": "LANDSCAPE",
+        "hideTitle": true,
+        "catalogSources": [
+      {
         "id": "95be0cb8-b8dd-401d-b982-f35b1fb5b08e",
         "title": "Paramount+",
         "coverImageUrl": "https://raw.githubusercontent.com/elucidationvortex-source/nuviotemplate/refs/heads/main/images/Paramount.jpg",
